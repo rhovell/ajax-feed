@@ -31,6 +31,6 @@ _Main app built by Richard Kalehoff, lessons implemented by Rachel Hovell_
 
 See the live versions here:
 
-* [https://rhovell.github.io/ajax-feed/lesson-1-async-w-xhr/index.html](Version 1 XMLHttpRequest methods)
-* [https://rhovell.github.io/ajax-feed/lesson-2-async-w-jQuery/index.html](Version 2 $.ajax methods)
-* [https://rhovell.github.io/ajax-feed/lesson-3-async-w-fetch/index.html](Version 3 fetch methods)
+* [Version 1 XMLHttpRequest methods](https://rhovell.github.io/ajax-feed/lesson-1-async-w-xhr/index.html)
+* [Version 2 $.ajax methods](https://rhovell.github.io/ajax-feed/lesson-2-async-w-jQuery/index.html)
+* [Version 3 fetch methods](https://rhovell.github.io/ajax-feed/lesson-3-async-w-fetch/index.html)
